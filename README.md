@@ -1,6 +1,8 @@
 # Calculator
     In this project implement a calculator to practice development using JavaScript.
     
+<img src="https://github.com/lycan-nt/Calculator/blob/master/img.PNG" />
+   
  🧠 Concepts Covered:
  
 - How to use ES6 classes to organize code
